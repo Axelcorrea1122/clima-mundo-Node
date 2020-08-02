@@ -1,0 +1,16 @@
+{
+  "name": "clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicacion que muestra el clima segun la ciudad especificada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Correa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  }
+}
